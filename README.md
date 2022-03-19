@@ -3,16 +3,25 @@
 <div align="center">
   <a href="https://github.com/DenisWeber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisWeber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisWeber&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisWeber&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
+  
 <div align="center" style="display: inline_block"><br>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img align="center" alt="Denis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
   <img align="center" alt="Denis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img align="center" alt="Denis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
   <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
 </div>
   
 ##
   
-👨‍💻 - Trabalho como suporte técnico.<br>
-👨‍🎓 - Estudo HTML, CSS, Js e C#.<br>
+👨‍💻 - **Trabalho com suporte técnico.**<br>
+👨‍🎓 - **Estudo HTML, CSS, Js e C#.**<br>
